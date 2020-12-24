@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TareaCalificada</string>
+    <string name="nombre_edit_text">Nombre completo</string>
+    <string name="telefono_edit_text">Teléfono</string>
+    <string name="email_edit_text">Email</string>
+    <string name="descripcion_edit_text">Descripción contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="falta_nombre">Falta el nombre</string>
+    <string name="falta_telefono">Falta el teléfono</string>
+    <string name="falta_email">Falta el email</string>
+    <string name="falta_descripcion">Falta la descripción</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="tv_confirmar_datos">Confirmar Datos</string>
+    <string name="boton_editar">Editar Datos</string>
+    <string name="boton_confirmar">Confirmar</string>
+</resources>

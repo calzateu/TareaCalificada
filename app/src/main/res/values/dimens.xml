@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_nombre_edit_text">5dp</dimen>
+    <dimen name="ancho_descripcion">90dp</dimen>
+    <dimen name="margen_superior_confirmarDatos">20dp</dimen>
+    <dimen name="margenes_entre_datos_confirmarDatos">10dp</dimen>
+    <dimen name="tamaño_titulo_confirmarDatos">30dp</dimen>
+    <dimen name="tamaño_textos_confirmarDatos">20dp</dimen>
+</resources>
